@@ -1,0 +1,9 @@
+.navbar-brand  img {
+    height: 100%;
+}
+
+.navbar-rewind {
+    border-bottom: 8px solid rgba(90, 189, 196, 0.9) !important;
+    height: 75px;
+    padding: 8px;
+}
